@@ -33,6 +33,12 @@
 
 ![MindMap](https://github.com/ykropchik/OSINT/blob/main/Mind%20Map.jpg)
 # <a name="GoogleDork"></a> Google dork - Google-hacking-database
+Удалось нагуглить 4 твиттер аккаунта сотрудников Valve
+1. https://twitter.com/ariel3diaz - дизайнер в Valve
+2. https://twitter.com/animatorbrad - аниматор в Valve
+3. https://twitter.com/danRpaulsen - аниматор Valve
+4. https://twitter.com/erikrobson - дизайнер Valve
+
 ![GoogleDork_1](https://github.com/ykropchik/OSINT/blob/main/GoogleDorking/google_dork_1.png)
 ![GoogleDork_2](https://github.com/ykropchik/OSINT/blob/main/GoogleDorking/google_dork_2.png)
 ![GoogleDork_3](https://github.com/ykropchik/OSINT/blob/main/GoogleDorking/google_dork_3.png)
