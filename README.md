@@ -21,7 +21,7 @@
 11. ✅ [github.com/smicallef/spiderfoot](#SpiderFoot)
 12. ✅ [github.com/laramies/theHarvester](#TheHarvester)
 13. ✅ [github.com/zricethezav/gitleaks](#Gitleaks)
-14. ⭕ [github.com/twintproject/twint](#Twint)
+14. ✅ [github.com/twintproject/twint](#Twint)
 15. ✅ [github.com/sherlock-project/sherlock](#Sherlock)
 16. ✅ [github.com/s0md3v/Photon ](#Photon)
 17. ⭕ [ahmia.fi](#Ahmia)
@@ -116,6 +116,10 @@
 ![Gitleaks_DameNetSock(4)](https://github.com/ykropchik/OSINT/blob/main/gitleaks/gitleaks_DameNetSock(4).png)
 
 # <a name="Twint"></a> Twint
+- [animatorbrad](https://github.com/ykropchik/OSINT/blob/main/twint/animatorbrad.txt)
+- [ariel3diaz](https://github.com/ykropchik/OSINT/blob/main/twint/ariel3diaz.txt)
+- [danRpaulsen](https://github.com/ykropchik/OSINT/blob/main/twint/danRpaulsen.txt)
+- [erikrobson](https://github.com/ykropchik/OSINT/blob/main/twint/erikrobson.txt)
 
 # <a name="Sherlock"></a> Sherlock
 - [Sagesource](https://github.com/ykropchik/OSINT/blob/main/sherlock/sherlock-Sagesource.txt)
