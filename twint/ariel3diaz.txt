@@ -1,0 +1,20 @@
+1497305758274232321 2022-02-26 06:21:26 +1000 <ariel3diaz> @henningsanden I have 2 major gripes :  1. The workflow around having uv's synced is unintuitive and means that you have to constantly change states in order to use some tools.  2. Unwrapping/relaxing uv's is bad on organic models. I've had to switch to Rizom for this part of uving.
+1425434380726685696 2021-08-11 22:30:14 +1000 <ariel3diaz> @iriscompietart Beautiful. Would love to see the original clay.
+1346544235038687232 2021-01-06 05:48:57 +1000 <ariel3diaz> @Killbourne @henningsanden Yeah, Modo's uv tools, especially component selection and how it correlates to the 3d viewport is top notch. With all the addons that I use in Blender I already have most of the functionality I need from Modo but the workflow itself is still a bit clunky and slow.
+1346514756727783424 2021-01-06 03:51:49 +1000 <ariel3diaz> @henningsanden Moved from Modo to Blender about a year ago. The main pain points when transitioning were the key bindings, uv’s (Blender has ok tools but the uv link workflow is bad) and some missing modeling functionality that addons like Maxviz tools, Hardops and Machin3tools brought back.
+1331312910484733955 2020-11-25 05:05:07 +1000 <ariel3diaz> @SF_simonfox Stunning work!
+1312824390850027520 2020-10-05 04:38:20 +1000 <ariel3diaz> @GrantWahl Nope.  https://t.co/7z7V6lGaxH
+1275919359660027905 2020-06-25 08:30:55 +1000 <ariel3diaz> @RobbieSTrevino @DaniHartel Really sorry to read this, Robbie. Please let me know how I can help.
+1271258183089000448 2020-06-12 11:49:04 +1000 <ariel3diaz> @meanGoreng Them shapes!
+1268775881708761088 2020-06-05 15:25:17 +1000 <ariel3diaz> @Leukbaars Need to rebuild that navmesh
+1264645493419724800 2020-05-25 05:52:36 +1000 <ariel3diaz> @mxeon1001 For a second there I thought Modo got a second chance to live
+1257175577598980096 2020-05-04 15:09:49 +1000 <ariel3diaz> @ollymoss @eddieparker @Forbes @audible_com The Psycopath Test (narrated by the author) is a great audiobook.
+1246949128669523968 2020-04-06 09:53:34 +1000 <ariel3diaz> Portrait sketch of Lovecraft in his natural form. Playing around with Jama’s clay shaders in Blender, in combination with a bronze patina material that I started working on a while back before the world ended #b3d #cycles #lovecraft  https://t.co/AcMPcIv9KH
+1238738037602799616 2020-03-14 18:05:37 +1000 <ariel3diaz> @tonkohouse I love that Miyazaki always takes a few minutes in each film to show how characters prepare food and just relax. This doesn’t necessarily move the story forward but lets you understand the setting allowing you to breathe and want to be part of his world.
+1237893643085549569 2020-03-12 10:10:18 +1000 <ariel3diaz> @ragtopgirl1 @irinamoises @AuthorComposer @EddieZipperer @AOC In researching ‘patroning’ i made a typo. I stand corrected ;)
+1237832919554519040 2020-03-12 06:09:00 +1000 <ariel3diaz> @AuthorComposer @EddieZipperer @irinamoises @AOC Patroning: to support with money. According to the quote (not that I agree with it.. i honestly don’t know) people are avoiding Asian restaurants, thus, not ‘patroning’ them. To ‘patronize’ is to be condescending, which is an entirely different thing.
+1230452741325164546 2020-02-20 21:22:48 +1000 <ariel3diaz> @Invertednormals @_maxivz Agreed! CS Create and CS Delete should just be the default way Blender works.
+1227144449613942784 2020-02-11 18:16:50 +1000 <ariel3diaz> @GavRov The Wailing: A stranger torments a small country town. Supernatural thriller, horror and action. Great characters and setting.
+1216317347419451394 2020-01-12 21:13:48 +1000 <ariel3diaz> @GioNakpil @OculusMedium Yes Gio!!
+1214949918059614209 2020-01-09 02:40:07 +1000 <ariel3diaz> @HedNadder Yes. Particle hair set to ‘strip’
+1214949453787844608 2020-01-09 02:38:17 +1000 <ariel3diaz> @GioNakpil Thanks man! Can’t wait to see what you cook up.

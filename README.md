@@ -11,7 +11,7 @@
    - CallerID Test
    - ThatsThem - Reverse Phone Lookup
    - etc...
-4. ❌ censys.io (**_не дает зарегаться_**)
+4. ✅ [censys.io](#Censys)
 5. ✅ [shodan.io](#Shodan)
 6. ❌ zoomeye.org (**_Заюзать не получилось, поскольку не дает зарегаться_**)
 7. ❌ raidforums.com (**_Не дает зарегаться_**)
@@ -66,6 +66,10 @@
 ![OSINT_Framewort_10](https://github.com/ykropchik/OSINT/blob/main/osintFramework/osint_framework_10.png)
 ![OSINT_Framewort_11](https://github.com/ykropchik/OSINT/blob/main/osintFramework/osint_framework_11.png)
 ![OSINT_Framewort_12](https://github.com/ykropchik/OSINT/blob/main/osintFramework/osint_framework_12.png)
+
+# <a name="Censys"></a> Censys.io
+![Censys](https://github.com/ykropchik/OSINT/blob/main/censys/censys.png)
+![Censys2](https://github.com/ykropchik/OSINT/blob/main/censys/censys%20(2).png)
 
 # <a name="Shodan"></a> Shodan.io
 ![Shodan1](https://github.com/ykropchik/OSINT/blob/main/shodan/Shodan%20-%20result.png)
