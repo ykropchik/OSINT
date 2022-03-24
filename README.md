@@ -93,7 +93,18 @@
 - [support.steampowered.com](https://github.com/ykropchik/OSINT/blob/main/theHarvester/theharvester%20-%20support.steampowered.com.txt)
 
 # <a name="Gitleaks"></a> Gitleaks
+![Gitleaks_wine](https://github.com/ykropchik/OSINT/blob/main/gitleaks/gitleaks_wine.png)
+![Gitlieaks_Fossilize](https://github.com/ykropchik/OSINT/blob/main/gitleaks/gitlieaks_Fossilize.png)
+![Gitleaks_steam-runtime](https://github.com/ykropchik/OSINT/blob/main/gitleaks/gitleaks_steam-runtime.png)
+![Gitleaks_Proton](https://github.com/ykropchik/OSINT/blob/main/gitleaks/gitleaks_Proton.png)
+![Gitleaks_Proton2](https://github.com/ykropchik/OSINT/blob/main/gitleaks/gitleaks_Proton(2).png)
+![Gitleaks_DameNetSock](https://github.com/ykropchik/OSINT/blob/main/gitleaks/gitleaks_GameNetSock.png)
+![Gitleaks_DameNetSock(2)](https://github.com/ykropchik/OSINT/blob/main/gitleaks/gitleaks_DameNetSock(2).png)
+![Gitleaks_DameNetSock(3)](https://github.com/ykropchik/OSINT/blob/main/gitleaks/gitleaks_DameNetSock(3).png)
+![Gitleaks_DameNetSock(4)](https://github.com/ykropchik/OSINT/blob/main/gitleaks/gitleaks_DameNetSock(4).png)
+
 # <a name="Twint"></a> Twint
+
 # <a name="Sherlock"></a> Sherlock
 - [Sagesource](https://github.com/ykropchik/OSINT/blob/main/sherlock/sherlock-Sagesource.txt)
 - [animatorbrad](https://github.com/ykropchik/OSINT/blob/main/sherlock/sherlock-animatorbrad.txt)
