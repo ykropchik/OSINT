@@ -21,11 +21,11 @@
 11. ✅ [github.com/smicallef/spiderfoot](#SpiderFoot)
 12. ✅ [github.com/laramies/theHarvester](#TheHarvester)
 13. ✅ [github.com/zricethezav/gitleaks](#Gitleaks)
-14. ✅ [github.com/twintproject/twint](#Twint)
+14. ⭕ [github.com/twintproject/twint](#Twint)
 15. ✅ [github.com/sherlock-project/sherlock](#Sherlock)
-16. ⭕ [github.com/s0md3v/Photon ](#Photon)
+16. ✅ [github.com/s0md3v/Photon ](#Photon)
 17. ⭕ [ahmia.fi](#Ahmia)
-18. ⭕ [github.com/screetsec/Sudomy](#Sudomy)
+18. ✅ [github.com/screetsec/Sudomy](#Sudomy)
 19. ✅ [Maltego ](#Maltego)
 
 # <a name="MindMap"></a> MindMap
@@ -106,8 +106,24 @@
 - [mattshu](https://github.com/ykropchik/OSINT/blob/main/sherlock/sherlock-mattshu.txt)
 
 # <a name="Photon"></a> Photon 
+![Proton1](https://github.com/ykropchik/OSINT/blob/main/photon/photon_1.png)
+![Proton2](https://github.com/ykropchik/OSINT/blob/main/photon/photon_2.png)
+![Proton3](https://github.com/ykropchik/OSINT/blob/main/photon/photon_3.png)
+
 # <a name="Ahmia"></a> ahmia.fi
+
+
 # <a name="Sudomy"></a> Sudomy
+![Sudomy1](https://github.com/ykropchik/OSINT/blob/main/sudomi/sudomi_1.png)
+![Sudomy2](https://github.com/ykropchik/OSINT/blob/main/sudomi/sudomi_2.png)
+![Sudomy3](https://github.com/ykropchik/OSINT/blob/main/sudomi/sudomi_3.png)
+![Sudomy4](https://github.com/ykropchik/OSINT/blob/main/sudomi/sudomi_4.png)
+![Sudomy5](https://github.com/ykropchik/OSINT/blob/main/sudomi/sudomi_5.png)
+![Sudomy6](https://github.com/ykropchik/OSINT/blob/main/sudomi/sudomi_6.png)
+![Sudomy7](https://github.com/ykropchik/OSINT/blob/main/sudomi/sudomi_7.png)
+![Sudomy8](https://github.com/ykropchik/OSINT/blob/main/sudomi/sudomi_8.png)
+![Sudomy9](https://github.com/ykropchik/OSINT/blob/main/sudomi/sudomi_9.png)
+
 # <a name="Maltego"></a> Maltego
 [Полученный граф](https://github.com/ykropchik/OSINT/blob/main/maltego/valvesofware.com.mtgl)
 ![Maltego](https://github.com/ykropchik/OSINT/blob/main/maltego/maltego.png)
