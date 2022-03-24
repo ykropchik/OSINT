@@ -24,7 +24,7 @@
 14. ✅ [github.com/twintproject/twint](#Twint)
 15. ✅ [github.com/sherlock-project/sherlock](#Sherlock)
 16. ✅ [github.com/s0md3v/Photon ](#Photon)
-17. ⭕ [ahmia.fi](#Ahmia)
+17. ✅ [ahmia.fi](#Ahmia)
 18. ✅ [github.com/screetsec/Sudomy](#Sudomy)
 19. ✅ [Maltego ](#Maltego)
 
@@ -138,7 +138,7 @@
 ![Proton3](https://github.com/ykropchik/OSINT/blob/main/photon/photon_3.png)
 
 # <a name="Ahmia"></a> ahmia.fi
-
+![ahmia](https://github.com/ykropchik/OSINT/blob/main/ahmia/ahmia_1.png)
 
 # <a name="Sudomy"></a> Sudomy
 ![Sudomy1](https://github.com/ykropchik/OSINT/blob/main/sudomi/sudomi_1.png)
